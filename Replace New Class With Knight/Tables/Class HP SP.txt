@@ -1,0 +1,19 @@
+Class	HP Base	HP Factor	SP Base	SP Factor	SP Stats
+Knight	30	5	0	0	-
+Cavalier		7		0	-
+Champion		9		0	-
+Cleric	20	2	10	3	P
+Priest		3		4	P
+HighPriest		4		5	P
+Sorcerer	20	2	10	3	I
+Wizard		3		4	I
+ArchMage		4		5	I
+Paladin	25	3	5	2	P
+Crusader		4		3	P
+Hero		5		4	P
+Archer	25	3	5	2	I
+BattleMage		4		3	I
+WarriorMage		5		4	I
+Druid	20	2	10	3	IP
+GreatDruid		3		4	IP
+ArchDruid		4		5	IP

@@ -1,0 +1,513 @@
+Q Bit	Actual Quest Note Text	Notes	Old Quest Note Text
+1		 1 D09, key to open D05	 D09, Schlüssel für D05
+2		 2 D11, given for glass shard for staff of terrax quest	 D11, vergeben, für Glasscherbe beim Terrax-Suchauftrag
+3		 3 D06, given when harp is recovered	 D06, vergeben, wenn Harfe wiederbeschafft wurde
+4		 4 D10, given when you retreive artifact from chest	 D10, vergeben, wenn Du Artefakt aus der Kiste erhältst
+5		 5 D18, questbit for getting hourglass	 D18, Suchgegenstand für Suche nach Sanduhr
+6		 6 T3, given when you rescue prisoner	 T3, vergeben, wenn Du Gefangenen befreist
+7		 7 T5, when you are promoted to archdruid	 T5, wenn Du zum Erzdruiden befördert wirst
+8		 8 T7, given when you find the smoking gun	 T7, vergeben, wenn Du die rauchende Kanone findest
+9		 9, CD2, given when you destroy Lich book	 CD2, vergeben, wenn Du das Buch der Liche zerstört hast
+10		Tim	Kanal, fang den Prinz der Diebe
+11		11 D7, opens tomb in D18.	D7, öffnet Grab in D18.
+12		12 D3, given when you save Mom.	D3, vergeben, wenn Du Mom rettest.
+13		13 D13, given when you save the damsel, Melody Silver, in D7.	D13, vergeben, wenn Du die holde Maid in D7 rettest.
+14		14 D6, given when Message 504 given out.	D6, vergeben, wenn Nachricht 504 ausvergeben, wird.
+15		15 D7, given when chest with evidence for Constable opened.	D7, vergeben, wenn die Kiste mit den Beweisen für den Wachtmeister geöffnet wird.
+16		16 D17, given when party is turned into Werewolves.	D17, vergeben, wenn Gruppe zu Werwölfen wird.
+17		17 D17, given when wolf altar is destroyed.	D17, vergeben, wenn Wolfaltar zerstört wurde.
+18		18 D17, given when party buries torture victims.	D17, vergeben, wenn Gruppe Folteropfer begräbt.
+19		19 D17, given when party buries more torture victims.	D17, vergeben, wenn Gruppe weitere Folteropfer begräbt.
+20		20 D17, given when party digs up tiger statue quest item.	D17, vergeben, wenn Gruppe Suchgegenstand für Tigerstatuette ausgräbt.
+21		21 T2, Given when evil crystal is destroyed	T2, vergeben, wenn böser Kristall zerstört wurde.
+22		22 D05, Given to find Snergles axe	D05, vergeben, um Snergles Axt zu finden.
+23		23 D13, Given when Altar is desecrated	D13, vergeben, wenn Altar geschändet wurde.
+24		24 D14, Given to find Ethrics Skull	D14, vergeben, um Ethrics Schädel zu finden.
+25		25 D15, Given to find merchants White pearl	D15, vergeben, um die weiße Perle des Händlers zu finden.
+26		26 D19, Given to find White witches crown	D19, vergeben, um die Krone der weißen Hexe zu finden.
+27		27 D05, Given when axe is returned (so door can't be opened)	D05, vergeben, wenn Axt zurückgebracht wurde (Tür kann nicht geöffnet werden).
+28		Dave	
+29		Dave	
+30		Dave	
+31		31 D02, given when spider quest is completed	D02, vergeben, wenn Spinnenauftrag erledigt wurde.
+32		32 D02, given when kid is rescued	D02, vergeben, wenn Kind gerettet wurde.
+33		33 D02, given when egg quest is assigned	D02, vergeben, wenn der Ei-Suchauftrag vergeben, wird.
+34		34 D02, given when temple of Baa relic is found	D02, vergeben, wenn das Tempel von Baa - Relikt gefunden wird.
+35		35 D17 Brought back Black Pearl and Ghost will no longer show up.	Schwarze Perle zurückgebracht, Geist erscheint nicht weiter.
+36		36 D02, given when bat quano is harvested	D02, vergeben, wenn Fledermausdung geerntet wurde.
+37		37 D02, is given when you get all the dead guys	D02, vergeben, wenn Du all die Toten findest.
+38		38 T07, given when you find the smoking gun	T07, vergeben, wenn Du die rauchende Kanone findest.
+39		39 CD2, given when you find the oracle gem	CD2, vergeben, wenn Du den Orakel-Edelstein findest.
+40		40 CD2, given when you get the knowledge to become a lich	CD2, vergeben, wenn Du das Wissen erhältst, wie man ein Lich wird.
+41		Bruce	
+42		Bruce	
+43		Bruce	
+44		Bruce	
+45		Bruce	
+46		Bruce	
+47		Bruce	
+48		Bruce	
+49		Bruce	
+50		Bruce	
+51		51 T4, Given when characters find Silver Chalice.	T4, vergeben, wenn der Silberne Becher gefunden wird.
+52		52 D16, Given when characters find the Eagle Statuette	D16, vergeben, wenn Charaktere die Adlerstatue finden.
+53		53 T6, Given when characters take the Oracle Crystal from the altar.	T6, vergeben, wenn der Orakelkristall vom Altar genommen wird.
+54		Chris	
+55		Chris	
+56		Chris	
+57		Chris	
+58		Chris	
+59		Chris	
+60		Chris	
+61		Peter	
+62		Peter	
+63		Peter	
+64		Peter	
+65		Peter	
+66		Peter	
+67		Peter	
+68		Peter	
+69		Peter	
+70		Peter	
+71		Walt	vergeben, wenn Türen in D4 entzaubert wurden.
+72		Walt	D20, vergeben, wenn 1. Artefakt-Kiste geöffnet wird
+73		Walt	D20, vergeben, wenn 2. Artefakt-Kiste geöffnet wird
+74		Walt	D17, vergeben, wenn Nachrichtenrolle 517 ausgegeben wird
+75		Lisa	
+76		Lisa	
+77		Lisa	
+78		Lisa	
+79		Lisa	
+80		Lisa	
+81	Zeige Sulmans Brief Andover Potbello in Neu Sorpigal.	Set when the party starts	Zeige Sulmans Brief Andover Potbello in Neu Sorpigal.
+82	Bringe Sulmans Brief zu Regent Wilbur Humphrey in Burg Ironfist.	Set by Andover after you show him the letter	Bringe Sulmans Brief zu Regent Wilbur Humphrey in Burg Ironfist.
+83	Finde die Kombination zu der Gewölbetür in Goblinwacht, und kehre zum Rathaus in Neu Sorpigal zurück.	Set by Town Hall	Finde die Kombination zu der Gewölbetür in Goblinwacht
+84	Beschaffe das Geläut der Harmonie aus dem Tempel von Baa, und kehre damit zum Rathaus in Neu Sorpigal zurück.	Paul	Zerstöre den Altar des Bösen im Tempel von Baa und kehre mit dem Geläut der Harmonie zurück
+85		Paul	Kombination für Goblinwacht herausgefunden
+86	Finde Lord Kilburns Schild und kehre damit zu Wilbur Humphrey in Burg Ironfist zurück.	Paul	Finde Lord Kilburns Schild
+87		Paul	Mit dem Verräter gesprochen
+88	Rette eine Maid in Not und kehre mit ihr zu Wilbur Humphrey in Burg Ironfist zurück.	Paul	Rette eine Maid in Not
+89	Erschlage Longfang Witherhide in seiner Höhle bei Burg Darkmoor und kehre zurück zu Wilbur Humphrey in Burg Ironfist.	Paul	Erschlage Longfang Witherhide
+90	Unterhalte Nicolai.	Paul	Unterhalte Nicolai.
+91		91 D12 John Silver only talks to you once.	D12 John Silver redet nur einmal mit Dir.
+92		92 D17, Given when Paladin Ghost tells party where Tiger Statue is.	D17, vergeben, wenn der Geist des Paladins der Gruppe sagt, wo doe Tigerstatue ist.
+93		93 D17, Used when QB 18 corpses buried.	D17, benutzt wenn QB 18 Leichen begraben werden.
+94		94 D17, Used when QB 19 corpses buried.	D17, benutzt wenn QB 19 Leichen begraben werden.
+95	Finde Prinz Nicolai und bringe ihn zurück nach Burg Ironfist.	Walt	Finde den Prinzen und bringe ihn zurück.
+96	Finde das dritte Auge und bringe es zu Prinz Nicolai in Burg Ironfist.	Walt	Finde das dritte Auge
+97		Walt	Suchauftrag für Schwarze Umhüllung von Archibald in Bibliothek erhalten.
+98	Fange den Prinzen der Diebe und bringe ihn zu Lord Anthony Stone in Burg Stone.	NPC	Fange den Prinzen der Diebe
+99		Oracle	
+100		Oracle	Orakel, wenn Speicherkristall alpha eingesetzt wird
+101		Oracle	Orakel, wenn Speicherkristall beta eingesetzt wird
+102		Oracle	Orakel, wenn Speicherkristall Delta eingesetzt wird
+103		Oracle	Orakel, wenn Speicherkristall epsilon eingesetzt wird
+104		CD3	vergeben, wenn Du Speicherkristall epsilon erhältst
+105	Heuere einen Steinmetz und einen Zimmermann an, bringe sie zum Tempel Stone, repariere den Tempel und kehre dann zu Lord Stone in Burg Stone zurück.	NPC	Baue Tempel Stone wieder auf
+106		NPC	Wiederaufbau von Tempel Stone beendet
+107	Hole den heiligen Becher von den Mönchen in ihrem Inseltempel östlich von Freehaven, bringe ihn zum Tempel Stone in Freehaven und kehre dann zu Lord Stone in Burg Stone zurück.	NPC	Finde und ersetze den heiligen Becher
+108		NPC	Becher in den Tempel gebracht
+109		NPC	Marton Ferris stellt Kleriker-Suchauftrag
+110	Finde die Sanduhr der Muße und bringe sie zu Lord Albert Newton in Mist.	NPC	Hole die Sanduhr der Muße zurück
+111	Trinke aus der magischen Quelle und kehre zurück zu Lord Albert Newton in Mist.	NPC	Trinke aus der magischen Quelle
+112	Hole den Kristall von Terrax zurück, und kehre damit zurück zu Lord Albert Newton in Mist.	NPC	Hole den Kristall von Terrax zurück
+113	Zerstöre den Vorposten der Teufel und kehre zurück zu Osric Temper in Burg Temper.	NPC	Zerstöre den Vorposten der Teufel
+114	Laß Dich von Chadwick zum Kavalleristen nominieren und kehre zurück zu Osric Temper in Burg Temper.	NPC	Laß Dich von Chadwick zum Kavalleristen nominieren
+115	Besiege den Kriegsherren und bringe einen Beweis dafür zu Osric Temper.	NPC	Besiege den Kriegsherren
+116	Setze die Preise aller 9 Ställe in Enroth fest und komme dann zurück zu Lady Fleise in Silver Cove.	NPC	Setze die Preise aller 9 Ställe in Enroth fest
+117		NPC	Alle Ställe für Preisfestsetzung besucht
+118	Besuche den Altar der Sonne im Steinkreis nördlich von Silver Cove zur Sonnwende oder zur Tagundnachtgleiche.	NPC	Besuche den Altar der Sonne zur Sonnwende oder Tagundnachtgleiche
+119	Besuche den Altar des Mondes im Mondtempel um Mitternacht bei Vollmond.	NPC	Besuche den Altar des Mondes um Mitternacht bei Vollmond
+120	Beende den Winter für Lord Stromgard in Burg Stromgard und kehre mit den guten Neuigkeiten  zu ihm zurück.	NPC	Beende den Winter für Lord Stromgard
+121	Beschaffe den Schlüssel für die Drachentürme aus der Eiswindfestung südlich von Whitecap, und bringe ihn zu Lord Stromgard in Burg Stromgard.	NPC	Beschaffe den Schlüssel für die Drachentürme
+122	Justiere die Drachentürme bei jeder Stadt neu, und kehre zurück zu Lord Stromgard in Burg Stromgard.	NPC	Justiere die Drachentürme bei jeder Stadt neu
+123		NPC	alle Türme besucht
+124	Töte Snergle in Snergles Höhlen und kehre mit seiner Axt zu Avinril Smythers in der Taverne 'Zur Heimsuchung' im Sumpf der Verdammten zurück.	NPC	Töte Snergle und kehre mit seiner Axt zurück
+125	Stürme den Vorposten der Silberhelme bei Mist und bringe Beweise für ihre Korrumption zum Wachtmeister von Mist.	NPC	Silberhelme sind böse - Suchauftrag
+126	Beschaffe den Kerzenleuchter aus dem verlassenen Tempel für Andover Potbello in Neu Sorpigal.	NPC	Beschaffe den Kerzenleuchter für Andover Potbello
+127		NPC	Melody gerettet
+128	Hole die Harfe aus den Dragonerhöhlen südlich von Burg Ironfist, und bringe sie zurück zu Andrew Besper in Burg Ironfist.	NPC	Rette Andrew Bespers Harfe 
+129	Besorge für Gabriel Cartman in Freehaven den Schädel von Ethric aus seinem Grab westlich von Freehaven.	NPC	Besorge für Gabriel Cartman den Schädel von Ethric
+130	Töte die Spinnenkönigin im verlassenen Tempel in Neu Sorpigal, und bringe ihr Herz zu Bufort T. Allman in Neu Sorpigal.	NPC	Töte die Spinnenkönigin
+131	Schände den Altar im Monolithen westlich von Silver Cove, und kehre zurück zu Eleanor Vanderbilt in Silver Cove.	NPC	Schände den Altar im Monolithen 
+132		NPC	Altar erfolgreich geschändet
+133	Finde Fledermausdünger, und bringe ihn zu Barrad Unter.	NPC	Suche nach Fledermausdung
+134	Zerstöre den Kristall im Tempel der Faust, und kehre zurück zu Winston Schezar.	NPC	gibt Suchauftrag 'Kristall zerstören'
+135		NPC	Kristall zerstört
+136	Rette Emmanuel aus dem Tempel der Schlange nahe Blackshire und bringe ihn zurück zu Joanne Cravitz in Blackshire.	NPC	Finde Ehemann - Suchauftrag
+137	Finde das verlorene Artefakt in der Dragonerfestung bei Burg Temper, und bringe es zu Zoltan Phelps in Freehaven.	NPC	gibt Suchauftrag 'finde verlorenes Artefakt'
+138	Befreie Sharry aus dem Versteck der Schattengilde, und bringe sie zurück zu Frank Fairchild in Neu Sorpigal.	NPC	Suchauftrag - Befreie Sharry
+139	Rette Angela aus dem verlassenen Tempel, und bringe sie zurück zu Violet Dawson in Neu Sorpigal.	NPC	Rette Angela - Suchauftrag
+140	Befreie Sherell von den Kannibalen auf den Inseln östlich von Freehaven, und bringe sie zurück zu Carlo Tormini in Freehaven.	NPC	Suchauftrag - Rette die Gefangenen
+141	Zerstöre den Altar der Werwölfe im Wolfsbau, und kehre zu Maria Trepan in Blackshire zurück.	NPC	Werwolf - Suchauftrag
+142		NPC	aktiviere Perle
+143	Finde die Perle der Verwesung im Wolfsbau, und bringe sie zu dem Geist von Balthasar, der sich auch im Wolfsbau aufhält.	NPC	gibt Suchauftrag 'Finde die Perle'
+144	Berge das Juwelenbesetzte Ei aus Burg Kriegspire, und bringe es zurück zu Emil Lime im Dorf Kriegspire.	NPC	gibt Suchauftrag 'Berge das Ei'
+145	Entriegele die Türen in der Halle des Feuerfürsten, und kehre zurück zum Fürsten des Feuers, der sich auch in der Halle des Feuerfürsten befindet.	NPC	entriegele die Türen - Suchauftrag
+146		NPC	Tür für den Feuerfürsten entriegelt
+147		NPC	Stall 1 besucht
+148		NPC	Stall 2 besucht
+149		NPC	Stall 3 besucht
+150		NPC	Stall 4 besucht
+151		NPC	Stall 5 besucht
+152		NPC	Stall 6 besucht
+153		NPC	Stall 7 besucht
+154		NPC	Stall 8 besucht
+155		NPC	Stall 9 besucht
+156		NPC	Drachenturm 1
+157		NPC	Drachenturm 2
+158		NPC	Drachenturm 3
+159		NPC	Drachenturm 4
+160		NPC	Drachenturm 5
+161		NPC	Drachenturm 6
+162	Finde den Speicherkristall Alpha im Hohen Tempel von Baa, und setze ihn wieder in ein Modul des Orakels ein, daß in der Nähe des Hohen Rates zu finden ist.	NPC	Finde Speicherkristall alpha
+163	Finde Speicherkristall Beta in Burg Alamos, und setze ihn wieder in ein Modul des Orakels ein.	NPC	Finde Speicherkristall beta
+164	Finde Speicherkristall Delta in Burg Darkmoor, und setze ihn wieder in ein Modul des Orakels ein.	NPC	Finde Speicherkristall delta
+165	Finde Speicherkristall Epsilon in Burg Kriegspire, und setze ihn wieder in ein Modul des Orakels ein.	NPC	Finde Speicherkristall epsilon
+166	Besorge einen Kubus der Kontrolle aus der Gruft von Varn in Drachensand, und kehre damit zum Orakel zurück.	NPC	Besorge den Kubus der Kontrolle
+167		NPC	Den Rat zufrieden gestellt und den Verräter enttarnt (Du darfst rein)
+168		NPC	Den Verräter entlarvt
+169		NPC	Du hast den Kubus und darfst den Sci-Fi Dungeon betreten
+170		NPC	Den Prinzen der Diebe gefangen
+171		NPC	Melody Silver gerettet
+172		NPC	Mit dem Mönch in D7 geredet
+173		NPC	Befördert zum Großdruiden
+174		NPC	Befördert zum Erzdruiden
+175		NPC	Winter beendet
+176		NPC	Teleport von T6 zu den Kanälen in Freehaven aktiviert
+177		NPC	Archibald befreit
+178		NPC	C2 besucht
+179		NPC	D1 besucht
+180		NPC	Den Reaktor zerstört
+181		Quest item bits for seer	Der 6. Brief
+182		Quest item bits for seer	Kilburns Schild
+183		Quest item bits for seer	Sanduhr der Muße
+184		Quest item bits for seer	Pläne der Teufel
+185		Quest item bits for seer	Drachenklaue
+186		Quest item bits for seer	Kristall von Terrax
+187		Quest item bits for seer	Entlassungspapiere
+188		Quest item bits for seer	Heiliger Becher
+189		Quest item bits for seer	Schlüssel zu den Drachentürmen
+190		Quest item bits for seer	Rauchende Kanone
+191		Quest item bits for seer	Speicherkristall alpha
+192		Quest item bits for seer	Speicherkristall beta
+193		Quest item bits for seer	Speicherkristall delta
+194		Quest item bits for seer	Speicherkristall epsilon
+195		Quest item bits for seer	Kubus der Kontrolle
+196		Quest item bits for seer	Das Dritte Auge
+197		Quest item bits for seer	Tanirs Glocke
+198		Quest item bits for seer	Schwarze Umhüllung
+199		Quest item bits for seer	Schlüssel zu Ghariks Schmiede
+200	Finde eine Heilung für Slicker Silvertongue im Obersten Tempel von Baa, östlich von Burg Kriegspire, und kehre zu Wilbur Humphrey zurück.	Wilbur Humphrey	Suchauftrag: Entlarve den Verräter
+201	Bringe den Brief, der Silvertongues Verrat beweist, zum Hohen Rat in Freehaven.	NPC	
+202		NPC	Dämonenkönigin getötet
+203		NPC	Emmanuel gefunden
+204	Suche und zerstöre das Buch der Liche in Burg Darkmoor, und kehre zurück zu Terry Ros im Dorf Darkmoor.	NPC	Lich - Suchauftrag
+205		NPC	Seher Suche - Die Suche für diesen Monat
+206		NPC	Seher Suche - Die Suche für diesen Monat abgeschlossen
+207		NPC	Seher Suche - Januar-Suche zumindest einmal beendet
+208		NPC	Seher Suche - Februar-Suche zumindest einmal beendet
+209		NPC	Seher Suche - März-Suche zumindest einmal beendet
+210		NPC	Seher Suche - April-Suche zumindest einmal beendet
+211		NPC	Seher Suche - Mai-Suche zumindest einmal beendet
+212		NPC	Seher Suche - Juni-Suche zumindest einmal beendet
+213		NPC	Seher Suche - Juli-Suche zumindest einmal beendet
+214		NPC	Seher Suche - August-Suche zumindest einmal beendet
+215		NPC	Seher Suche - September-Suche zumindest einmal beendet
+216		NPC	Seher Suche - Oktober-Suche zumindest einmal beendet
+217		NPC	Seher Suche - November-Suche zumindest einmal beendet
+218		NPC	Seher Suche - Dezember-Suche zumindest einmal beendet
+219	Stelle die Statuen in Sweet Water, Kriegspire, in Drachensand, im Sumpf der Verdammten und in der Schmugglerbucht auf, und kehre zu Twillen in Blackshire zurück.	NPC	Statuetten - Suchauftrag
+220		NPC	Gibt Kiste mit Statuetten 
+221		NPC	Gibt Kiste mit Belohnung
+222		NPC	Tiger plaziert
+223		NPC	Bär plaziert
+224		NPC	Adler plaziert
+225		NPC	Wolf plaziert
+226		NPC	Drachen plaziert
+227		NPC	Kiste mit Statuetten nicht noch einmal geben
+228		NPC	"Eremit ""kein Schnee"""
+229		Quest item bits for seer	Schriftrolle des ersten Offiziers
+230		Quest item bits for seer	Schriftrolle des Doktors
+231		Quest item bits for seer	Schriftrolle des Kapitäns
+232		Quest item bits for seer	Schriftrolle des Navigators
+233		Quest item bits for seer	Schriftrolle des Ingenieurs
+234		Quest item bits for seer	Schriftrolle des Kommunikator
+235	Beschaffe Dir die geheime Magie von Archibald in der königlichen Bibliothek von Burg Ironfist.	NPC	Informationen von Archibald für Orakel-Suchauftrag
+236		NPC	Feuer für Hexenmeister-Suchauftrag
+237		NPC	Kein Hort mehr, nachdem Du gewonnen hast
+238		NPC	
+239		NPC	
+240		NPC
+241		NPC
+242		NPC
+243		NPC
+244		NPC
+245		NPC
+246		NPC
+247		NPC
+248		NPC
+249		NPC
+250		NPC
+251		NPC
+252		NPC
+253		NPC
+254		NPC
+255		NPC
+256		NPC
+257		NPC
+258		NPC
+259		NPC
+260		NPC
+261		NPC
+262		NPC
+263		NPC
+264		NPC
+265		NPC
+266		NPC
+267		NPC
+268		NPC
+269		NPC
+270		NPC
+271		NPC
+272		NPC
+273		NPC
+274		NPC
+275		NPC
+276		NPC
+277		NPC
+278		NPC
+279		NPC
+280		NPC
+281		NPC
+282		NPC
+283		NPC
+284		NPC
+285		NPC
+286		NPC
+287		NPC
+288		NPC	
+289		NPC	
+290		NPC	
+291		NPC	
+292		NPC	
+293		NPC	
+294		NPC	
+295		NPC	
+296		NPC	
+297		NPC	
+298		NPC	
+299		NPC	Keine weitere Kiste mit Juwelenei
+300		Peter	Schlüssel benutzt um Goblinwacht aufzuschließen
+301		NPC	Teleport in Mist aktiviert.
+302		NPC	Schwert im Stein (Neu Sorpigal)
+303		NPC	Schwert im Stein (Ironfist)
+304		NPC	Kilburns Schild
+305		NPC	Ironfist Brunnen
+306		NPC	Glück permanent +10.
+307		NPC	
+308		NPC	
+309		NPC	
+310		NPC	Schwert im Stein (OutD1)
+311		NPC	Schwert im Stein (OutD1)
+312		NPC	Schwert im Stein (OutD1)
+313		NPC	Schwert im Stein (OutE1) Druid
+314		NPC	Kanal Teleport nach T6 funktioniert nicht, bis er von T6 aus aktiviert wird
+315		NPC	T6 Altar des Feuers
+316		NPC	T6 Altar der Kälte
+317		NPC	T6 Altar der Schmerzen
+318		NPC	T6 Schrein des Feuers
+319		NPC	T6 Schrein der Luft
+320		NPC	T6 Schrein des Wassers
+321		NPC	T6 Schrein der Erde
+322		NPC	
+323		NPC	
+324		NPC	
+325		NPC	
+326		NPC	
+327		NPC	
+328		NPC	
+329		NPC	
+330		NPC	
+331		NPC	
+332		NPC	
+333		NPC	
+334		NPC	
+335		NPC	
+336		NPC
+337		NPC
+338		NPC
+339		NPC
+340		NPC
+341		NPC
+342		NPC
+343		NPC
+344		NPC
+345		NPC
+346		NPC
+347		NPC
+348		NPC
+349		NPC
+350		NPC
+351		NPC
+352		NPC	
+353		NPC	
+354		NPC	
+355		NPC	
+356		NPC	
+357		NPC	
+358		NPC	
+359		NPC	
+360		NPC	Obelisk OutA1
+361		NPC	Obelisk OutA2
+362		NPC	Obelisk OutA3
+363		NPC	Obelisk OutB1
+364		NPC	Obelisk OutB2
+365		NPC	Obelisk OutB3
+366		NPC	Obelisk OutC1
+367		NPC	Obelisk OutC2
+368		NPC	Obelisk OutC3
+369		NPC	Obelisk OutD1
+370		NPC	Obelisk OutD2
+371		NPC	Obelisk OutD3
+372		NPC	Obelisk OutE1
+373		NPC	Obelisk OutE2
+374		NPC	Obelisk OutE3
+375		NPC	Obelisk Felsen
+376		NPC	Tor d18
+377		NPC	Feuerlord gibt Erfahrung und Schatz nur einmal
+378		NPC	
+379		NPC	
+380		NPC	
+381		NPC	
+382		NPC	
+383		NPC	
+384		NPC
+385		NPC
+386		NPC
+387		NPC
+388		NPC
+389		NPC
+390		NPC
+391		NPC
+392		NPC
+393		NPC
+394		NPC
+395		NPC
+396		NPC
+397		NPC
+398		NPC
+399		NPC
+400		NPC
+401		NPC
+402		NPC
+403		NPC
+404		NPC
+405		NPC
+406		NPC
+407		NPC
+408		NPC
+409		NPC
+410		NPC
+411		NPC
+412		NPC
+413		NPC
+414		NPC
+415		NPC
+416		NPC
+417		NPC
+418		NPC
+419		NPC
+420		NPC
+421		NPC
+422		NPC
+423		NPC
+424		NPC
+425		NPC
+426		NPC
+427		NPC
+428		NPC
+429		NPC
+430		NPC
+431		NPC
+432		NPC
+433		NPC
+434		NPC
+435		NPC
+436		NPC
+437		NPC
+438		NPC
+439		NPC
+440		NPC
+441		NPC
+442		NPC
+443		NPC
+444		NPC
+445		NPC
+446		NPC
+447		NPC
+448		NPC
+449		NPC
+450		NPC
+451		NPC
+452		NPC
+453		NPC
+454		NPC
+455		NPC
+456		NPC
+457		NPC
+458		NPC
+459		NPC
+460		NPC
+461		NPC
+462		NPC
+463		NPC
+464		NPC
+465		NPC
+466		NPC
+467		NPC
+468		NPC
+469		NPC
+470		NPC
+471		NPC
+472		NPC
+473		NPC
+474		NPC
+475		NPC
+476		NPC
+477		NPC
+478		NPC
+479		NPC
+480		NPC
+481		NPC
+482		NPC
+483		NPC
+484		NPC
+485		NPC
+486		NPC
+487		NPC
+488		NPC
+489		NPC
+490		NPC
+491		NPC
+492		NPC
+493		NPC
+494		NPC
+495		NPC
+496		NPC	
+497		NPC	
+498		NPC	
+499		NPC	
+500		marks quest items	Zauberspruchrolle 'Schwarze Umhüllung'
+501		marks quest items	
+502		marks quest items	
+503		marks quest items	
+504		marks quest items	
+505		marks quest items	
+506		marks quest items	
+507		marks quest items	
+508		marks quest items	
+509		marks quest items	
+510		marks quest items	
+511		marks quest items	
+512		marks quest items

@@ -1,0 +1,71 @@
+Special Bonuses by Group																
+
+Bonus Stat	Name Add	W1	W2	Miss	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul	Value	Lvl	Description fo special Bonuses and values
+
+ +10 auf alle Resistenzen.	des Schutzes	0	0	0	10	10	10	0	10	0	0	10	10	1000	B	(+10) on all four resistances
+ +10 auf alle 7 Attribute.	der Götter	5	5	5	10	10	10	10	10	10	10	10	10	3000	D	(+10) on all 7 stats
+Explosiver Einfluß!	des Blutbades	0	0	10	0	0	0	0	0	0	0	0	0	5000	D	projectile explodes (fireball radius,dmg=weapdmg)
+Fügt 3-4 Punkte Kälteschaden hinzu.	der Kälte	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(3-4) cold damage
+Fügt 6-8 Punkte Kälteschaden hinzu.	des Frosts	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(6-8) cold damage
+Fügt 9-12 Punkte Kälteschaden hinzu.	des Eises	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(9-12) cold damage
+Fügt 2-5 Punkte Elektroschaden hinzu.	der Funken	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(2-5) elec damage
+Fügt 4-10 Punkte Elektroschaden hinzu.	des Blitzes	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(4-10) elec damage
+Fügt 6-15 Punkte Elektroschaden hinzu.	des Donners	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(6-15) elec damage
+Fügt 1-6 Punkte Feuerschaden hinzu.	des Feuers	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(1-6) fire damage
+Fügt 2-12 Punkte Feuerschaden hinzu.	der Flammen	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(2-12) fire damage
+Fügt 3-18 Punkte Feuerschaden hinzu.	des Infernos	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(3-18) fire damage
+Fügt 5 Punkte Giftschaden hinzu.	des Gifts	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(5) pois damage
+Fügt 8 Punkte Giftschaden hinzu.	des Gifts	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(8) pois damage
+Fügt 12 Punkte Giftschaden hinzu.	der Säure	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(12) pois damage
+Entzieht dem Ziel Trefferpunkte.	des Vampirs	5	5	5	0	0	0	0	0	0	0	0	0	X 2	D	Heal 20% of damage done on attack
+Beschleunigt die Erholung.	der Erholung	10	10	10	20	0	20	10	0	0	20	10	10	200	B	(-10) pts on recovery from being hit
+Träger ist resistent gegen Krankheiten.	der Immunität	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	Immune to desease condition
+Träger ist resistent gegen Irrsinn.	des Verstands	0	0	0	5	5	5	5	5	0	0	5	5	1000	C	immune to insanity condition
+Träger ist resistent gegen Lähmung.	der Freiheit	0	0	0	10	10	10	10	10	0	0	10	10	2000	D	immune to paralize condition
+Träger ist resistent gegen Gift.	des Gegengifts	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	immune to poison condition
+Träger ist resistent gegen Schlaf.	der Besorgnis	0	0	0	10	10	10	10	10	0	0	10	10	500	B	immune to sleep condition
+Träger ist resistent gegen Stein.	der Medusa	0	0	0	5	5	5	5	5	0	0	5	5	2000	D	immune to stone condition
+Verstärkter Rückschlag.	der Wucht	10	10	10	0	0	0	0	0	0	0	0	0	500	A	Increase knockback effect (X10)
+ +5 Level.	der Kraft	2	2	2	2	2	2	2	2	2	2	2	2	2500	D	(+5) char level
+Verstärkt Wirkung aller Luftzauber.	der Luft	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Körperzauber.	des Körpers	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Schattenzauber.	des Schattens	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Erdzauber.	der Erde	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Feuerzauber.	des Feuers	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Lichtzauber.	des Lichts	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Geisteszauber.	des Geistes	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller spirituellen Zauber.	des Spirituellen	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Verstärkt Wirkung aller Wasserzauber.	des Wassers	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+Erhöht die Chance der Entwaffnung.	des Diebstahls	0	0	0	0	0	0	0	0	20	0	0	0	2000	B	double chance to perform lockpick and steal skill
+Halbiert den Schaden durch Geschoßattacken.	des Schildes	0	0	0	25	30	0	0	20	0	0	5	5	1000	B	(1/2)dmg from all missle attacks (not cumulative)
+Regeneriert Trefferpunkte mit der Zeit.	der Heilung	0	0	0	10	0	0	10	10	0	0	10	10	1000	B	Regenerate 1hp/x while walking, etc
+Regeneriert Zauberpunkte mit der Zeit.	des Manas	0	0	0	10	0	10	10	10	10	0	10	10	1000	B	Regenerate 1sp/x while walking, etc
+Verdoppelt den Schaden gegen Dämonen.	(Dämonentöter)	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all demons
+Verdoppelt den Schaden gegen Drachen.	(Drachentöter)	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all dragons
+Entzieht dem Ziel TP und höhere Waffengeschwindigkeit.	der Dunkelheit	5	5	5	0	0	0	0	0	0	0	0	0	X 3	D	(-20) pts on weapon speed, Vampiric
+ +1 auf die 7 Attribute, TP, ZP, Rüstung, Resistenzen.	des Verderbens	10	10	10	10	10	10	10	10	10	10	10	10	750	B	(+1) 7stats,hpts,spts,AC,4 resistances
+ +10 auf Ausdauer, Rüstung, Trefferpunkte.	der Energie	10	10	10	10	10	10	10	10	10	10	10	10	2000	D	End (+10), AC (+10), HP (+10)
+ +10 Trefferpunkte und und regeneriert TP mit der Zeit.	des Lebens	0	0	0	10	10	10	10	10	10	10	10	10	2000	D	HP (+10), Regen hpts
+ +5 Geschwindigkeit und Geschick.	des Gauners	10	10	10	5	5	5	10	20	20	20	10	10	500	A	Speed (+5), Acc (+5)
+Fügt 10-20 Punkte Feuerschaden hinzu und +25 Stärke.	des Drachens	10	10	10	0	0	0	0	0	0	0	0	0	3000	D	(10-20) Fire damage, Might (+25)
+ +10 Zauberpunkte und regeneriert ZP mit der Zeit.	der Finsternis	0	0	0	0	0	0	10	10	5	10	10	10	2000	D	SP (+10), Regen spts
+ +15 Ausdauer und +5 Rüstung.	des Golems	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	End (+15), AC (+5)
+ +10 Intellekt und Glück.	des Mondes	5	5	5	10	10	20	10	10	10	10	10	10	1000	C	Luck (+10), Int (+10)
+ +30 Feuerresistenz und regeneriert TP mit der Zeit.	des Phoenixes	0	0	0	20	20	20	0	0	0	0	0	0	3000	D	Fire Res (+30), Regen hpts
+ +10 Zauberpunkte, Geschwindigkeit, Intellekt.	des Himmels	5	5	5	10	10	20	10	10	10	10	10	10	2500	D	Int (+10), Spd (+10), SP (+10)
+ +10 Ausdauer und Geschick.	der Sterne	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	End (+10), Acc (+10)
+ +10 Stärke und Charisma.	der Sonne	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	Might(+10), Per (+10)
+ +15 Ausdauer und regeneriert TP mit der Zeit.	des Trolls	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	End (+15), Regen hpts
+ +15 Glück und regeneriert ZP mit der Zeit.	des Einhorns	5	5	5	10	10	20	10	10	10	10	10	10	1500	C	Luck (+15), Regen spts
+ +5 Stärke und Ausdauer.	des Kriegers	5	5	5	10	10	10	10	10	10	10	10	10	500	A	Might (+5), End (+5)
+ +5 Intellekt und Charisma.	des Zauberers	5	5	5	5	5	5	10	10	10	10	10	10	500	A	Intelect (+5), Per (+5)
+Gesteigerter Wert.	(Antiquität)	10	10	10	10	10	10	0	0	10	0	10	10	X 10	B	Gold value increased
+Erhöhte Waffengeschwindigkeit.	der Rasanz	25	25	25	0	0	0	0	0	0	0	0	0	X 2	B	(-20) pts on weapon speed
+
+		437	437	447	307	272	282	232	282	217	182	347	347
+
+Treasure Level	If treasure Level = 3 add all A and B												
+A= 3 to 4	If treasure Level = 4 add all A and B and C												
+B= 3 to 5	If treasure Level = 5 add al B and C and D												
+C= 4 to 5	If treasure Level = 6 add all D												
+D= 5 to 6													

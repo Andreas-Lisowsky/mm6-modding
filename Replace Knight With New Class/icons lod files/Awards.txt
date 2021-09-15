@@ -1,0 +1,101 @@
+A Bit	Awards	Notes
+1	den Prinzen zurück gebracht	
+2	Lord Kilburns Schild zurück gebracht	
+3	die Sanduhr der Muße zurück gebracht	
+4	den Posten der Teufel zerstört	
+5	den Prinzen der diebe gefangen	
+6	die Stallpreise festgesetzt	
+7	den Winter beendet	
+8	die Beförderung zum Kreuzritter erhalten	
+9	die Beförderung zum Kreuzritter ehrenhalber erhalten	
+10	die Beförderung zum Helden erhalten	
+11	die Beförderung zum Helden ehrenhalber erhalten	
+12	die Beförderung zum Hexenmeister erhalten	
+13	die Beförderung zum Hexenmeister ehrenhalber erhalten	
+14	die Beförderung zu Erzmagier erhalten	
+15	die Beförderung zum Erzmagier ehrenhalber erhalten	
+16	die Beförderung zum Obsidiankrieger erhalten
+17	die Beförderung zum Obsidiankrieger ehrenhalber erhalten
+18	die Beförderung zum Obsidianlord erhalten
+19	die Beförderung zum Obsidianlord ehrenhalber erhalten
+20	die Beförderung zum Priester erhalten
+21	die Beförderung zum Priester ehrenhalber erhalten
+22	die Beförderung zum Hohepriester erhalten
+23	die Beförderung zum Hohepriester ehrenhalber erhalten
+24	die Beförderung zum Großdruiden erhalten
+25	die Beförderung zum Großdruiden ehrenhalber erhalten
+26	die Beförderung zum Erzdruiden erhalten
+27	die Beförderung zum Erzdruiden ehrenhalber erhalten
+28	die Beförderung zum Kampfmagier erhalten
+29	die Beförderung zum Kampfmagier ehrenhalber erhalten
+30	die Beförderung zum Kriegsmagier erhalten
+31	die Beförderung zum Kriegsmagier ehrenhalber erhalten
+32	den Verräter im Hohen Rat entlarvt
+33	das Orakel geweckt
+34	Dir Zutritt zum Kontrollzentrum verschafft
+35	Archibald befreit
+36	den Hort zerstört und Enroth gerettet
+37	Snergle getötet
+38	den Bürgermeister von Mist gerettet
+39	den Kerzenleuchter für Baa geborgen
+40	Andrews Harfe wieder beschafft
+41	Ethrics Schädel geborgen
+42	die Spinnenkönigin getötet
+43	den Monolithen befreit
+44	Fledermausdünger an Barad geliefert
+45	den bösen Kristall zerstört
+46	Emmanuel gerettet
+47	Zoltans Artefakt gefunden
+48	Sharry gerettet
+49	Angela gerettet
+50	Sherell befreit
+51	den Fluch über Blackshire gebrochen
+52	den Anführer der Werwölfe getötet
+53	die Kombination von Goblinwacht herausgefunden
+54	das Geläut der Harmonie zurück gebracht
+55	Emils Ei wieder beschafft
+56	Twillens Statuen aufgestellt
+57	dem Feuerfürsten geholfen
+58	den 6. Brief an Wilbur Humphrey ausgeliefert
+59	das Recht, die königliche Jacht zu benutzen
+60	das Buch der Liche zerstört
+61	Super-Erdnuss
+62	das Rätsel der Obelisken gelöst
+63	
+64	die Mitgliedschaft in der Gilde der Elemente
+65	die Mitgliedschaft in der Gilde des Selbst
+66	die Mitgliedschaft im Seeräuberlager
+67	die Mitgliedschaft beim Sicherheitsdienst
+68	die Mitgliedschaft in der Schmugglergilde
+69	die Mitgliedschaft in der Klingenspitze
+70	die Mitgliedschaft in der Duellantenecke
+71	die Mitgliedschaft bei Berserkers Zorn
+72	die Mitgliedschaft in der Gilde der Luft
+73	die Mitgliedschaft in der Gilde der Erde
+74	die Mitgliedschaft in der Gilde des Feuers
+75	die Mitgliedschaft in der Gilde des Wassers
+76	die Mitgliedschaft in der Gilde des Körpers
+77	die Mitgliedschaft in der Gilde des Geistes
+78	die Mitgliedschaft in der Gilde des Spirituellen
+79	die Mitgliedschaft in der Gilde des Lichts
+80	die Mitgliedschaft in der Gilde des Schattens
+81	Belohnungen gesammelt: %u
+82	%u mal gestorben
+83	%u mal im Gefängnis gewesen
+84	Pagensiege in der Arena: %u
+85	Knappensiege in der Arena: %u
+86	Rittersiege in der Arena: %u
+87	Fürstensiege in der Arena: %u
+88	
+89	
+90	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	

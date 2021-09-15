@@ -1,0 +1,36 @@
+Resistance principle, pairs of resistances that are considered opposites:
+
+Fire - Cold
+Electric - Poison
+
+If a creature is of one specific resistance type, for example a fire dragon is of type fire, then it gets a boost to that resistance, up to full immunity, while getting a penalty for the opposite resistance.
+If a creature is not fully one specific resistance type, for example barbarians use electric damage, but are not really of that type, then resistances do not get impacted by that affinity.
+
+Rough level requirements for normal resistance strength:
+Level-10 = resistance
+
+Rough level requirements for normal AC strength:
+Level = AC
+
+
+Loot changes: For almost all monsters loot chance AND loot quality go up with the tier of the monster, which makes it so that lowest tier monsters almost never drop loot, and if they drop loot it is worthless.
+Change: With increase in monster tier, ONLY the chance OR the quality of the loot goes up, but not both
+
+Rough level requirements for each tier of loot: (If a creature only drops one specific type of loot and/or no gold, it can drop a higher loot tier or the same loot tier with a higher chance,
+to make it more flavorful. If it drops no loot but only gold, it can drop more gold. For example flying eyes drop good rings, but no gold)
+
+L1: 0-9
+L2: 10-19
+L3: 20-29
+L4: 30-49
+L5: 50-69
+L6: 70-100
+
+Rough level requirements for loot chance: (Average level over all tiers is used. If a higher monster tier does not reward better loot quality, it has a drop chance of the same quality but with the next higher drop chance tier)
+
+5%: 0-9
+10%: 10-19
+20%: 20-29
+30%: 30-49
+50%: 50-69
+100%: 70-100

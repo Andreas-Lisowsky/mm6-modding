@@ -1,0 +1,101 @@
+Spell	DelayNormal	DelayExpert	DelayMaster
+	0	0	0
+Fackellicht	50	50	50
+Flammenpfeil	110	100	90
+Schutz vor Feuer	50	50	50
+Feuerstrahl	110	100	90
+Eile	50	50	50
+Feuerball	110	100	90
+Feuerring	110	100	90
+Feuerwelle	110	100	90
+Meteorregen	150	130	110
+Inferno	150	130	110
+Verbrennen	120	110	100
+Magisches Auge	50	50	50
+Elektroschock	110	100	90
+Schutz vor Elektrizität	50	50	50
+Funkenflug	110	100	90
+Federfall	50	50	50
+Schild	50	50	50
+Blitzstrahl	110	100	90
+Sprung	150	130	110
+Implosion	120	110	100
+Fliegen	150	150	150
+Sternenfeuer	150	130	110
+Erwachen	20	20	20
+Kältestrahl	110	100	90
+Schutz vor Kälte	50	50	50
+Giftnebel	110	100	90
+Wasserwandeln	50	50	50
+Eisstrahl	110	100	90
+Verzaubern	20	20	20
+Säurestrahl	110	100	90
+Stadtportal	50	50	50
+Eisbombe	120	110	100
+Leuchtfeuer	50	50	50
+Betäuben	50	50	50
+Magischer Pfeil	110	100	90
+Schutz vor Magie	50	50	50
+Todesschwarm	110	100	90
+Steinhaut	50	50	50
+Klinge	110	100	90
+Stein zu Fleisch	50	50	50
+Felsen-Attacke	110	100	90
+Versteinern	130	130	130
+Todesblüte	150	130	110
+Schwerezauber	120	110	100
+Spiritueller Pfeil	110	100	90
+Segen	50	50	50
+Heilende Hände	80	70	60
+Glückstag	120	120	120
+Fluch entfernen	20	20	20
+Schutzengel	50	50	50
+Heldentum	50	50	50
+Untote verjagen	140	120	100
+Tote auferwecken	100	100	100
+Geteiltes Leben	150	150	150
+Auferstehung	100	100	100
+Meditation	50	50	50
+Furcht verjagen	20	20	20
+Nervenschock	110	100	90
+Präzision	50	50	50
+Lähmung heilen	20	20	20
+Charme	100	100	100
+Massenfurcht	100	90	80
+Umnachtung	110	100	90
+Irrsinn heilen	50	50	50
+Hirnschlag	120	110	100
+Telekinese	100	100	100
+Schwäche heilen	20	20	20
+Erste Hilfe	60	60	60
+Schutz vor Gift	50	50	50
+Bolzen	110	100	90
+Wunden heilen	80	70	60
+Gift heilen	50	50	50
+Reaktion	50	50	50
+Krankheit heilen	50	50	50
+Kraft	50	50	50
+Fliegende Faust	120	110	100
+Kraftheilung	120	110	100
+Fast Food	100	100	100
+Goldfinger	100	100	100
+Magie vertreiben	120	110	100
+Verlangsamen	120	100	80
+Untote vernichten	120	110	100
+Tag der Götter	100	100	100
+Prismenfeuer	150	130	110
+Stunde der Kraft	100	100	100
+Lähmen	160	140	120
+Solarstrahl	130	120	110
+Gottes Eingriff	300	300	300
+Wiederbeleben	100	100	100
+Giftwolke	120	110	100
+Massenfluch	120	120	120
+Schrapnell	120	110	100
+Schrumpfstrahl	120	120	120
+Tag des Schutzes	100	100	100
+Finger des Todes	130	130	130
+Mondstrahl	150	140	130
+Drachenhauch	160	140	120
+Armageddon	250	250	250
+Schwarze Umhüllung	300	300	300

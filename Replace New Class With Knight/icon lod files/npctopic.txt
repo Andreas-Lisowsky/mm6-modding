@@ -1,0 +1,527 @@
+Text Number From NPC Events.Doc		Notes
+#	Topic	
+1	Der Brief	
+2	Der Brief	
+3	Goblinwacht	
+4	Goblinwacht	
+5	Böser Kult	
+6	Böser Kult	
+7	Böser Kult	
+8	Der Heulende Mond	
+9	Der Brief	
+10	Lord Kilburn	
+11	Lord Kilburn	
+12	Der Hohe Rat	Need text for speaking with Wilbur Humphrey before talking to the traitor.
+13	Kreuzritter	
+14	Kreuzritter	
+15	Helden	
+16	Helden	
+17	Helden	
+18	Langeweile	
+19	Der Zirkus	
+20	Missing Text	
+21	Entschuldigt, ihre Hoheit…	
+22	Entschuldigt, ihre Hoheit…	
+23	Missing Text	
+24	Der Zirkus	
+25	Onkel Archibald	
+26	Das Dritte Auge	
+27	Onkel Archibald	
+28	Onkel Archibald	What should we do with the Archibald statue and the release method?
+29	Leer	
+30	Befreie Archibald	
+31	Silberhelme	
+32	Der Prinz der Diebe	
+33	Der Prinz der Diebe	
+34	Der Hohe Rat	
+35	Priester	
+36	Priester	
+37	Hohepriester	
+38	Hohepriester	
+39	Hohepriester	
+40	Erzmagier	
+41	Pilgerfahrt	
+42	Suchauftrag	
+43	Suchauftrag	
+44	Put Text Here	Shrine event
+45	Ich habe es verloren	
+46	Hinweis	
+47	Gottes Eingriff	
+48	Gottes Eingriff	
+49	Gottes Eingriff	
+50	Put Text Here	Shrine event
+51	Suchauftrag des Rates	
+52	Suchauftrag des Rates	
+53	Put Text Here	Telepathy
+54	Suchauftrag des Rates	
+55	Hexenmeister	
+56	Hexenmeister	
+57	Put Text Here 57	Fountain event
+58	Hexenmeister	
+59	Erzmagier	
+60	Erzmagier	
+61	Suchauftrag des Rates	
+62	Suchauftrag des Rates	
+63	Put Text Here 63	Mini-dungeon event
+64	Suchauftrag des Rates	
+65	Kavallerist	
+66	Nomination	
+67	Kavallerist	
+68	Kavallerist	
+69	Kavallerist	
+70	Kämpe	
+71	Kämpe	
+72	Kämpe	
+73	Kristall von Terrax	
+74	Speicherkristall	
+75	Put Text Here	Memory Crystal event
+76	Kontrollzentrum	
+77	Kreeganer	
+78	Altertum	
+79	Geld
+80	Geld
+81	Geld
+82	Großdruiden
+83	Großdruiden
+84	Erzdruiden
+85	Erzdruiden
+86	Erzdruiden
+87	Winter
+88	Winter
+89	Winter
+90	Winter
+91	Kampfmagier
+92	Kampfmagier
+93	Kriegsmagier
+94	Kriegsmagier
+95	Winter
+96	Winter
+97	Winter
+98	Meine Eroberung
+99	Preise festsetzen
+100	Kriegsmagier
+101	Silvertongues Ablehnung
+102	Silvertongues Heilung
+103	Dienst an der Krone
+104	Regeln
+105	Preise
+106	Instruktionen
+107	Spiele das Spiel der Stärke für 50 Gold
+108	Spiele das Spiel der Ausdauer für 50 Gold
+109	Spiele das Reaktionsspiel für 50 Gold
+110	Spiele das Geschicklich - keitsspiel für 50 Gold
+111	Spiele Glücksspiel für 50 Gold
+112	Spiele das Spiel des Intellekts für 50 Gold
+113	Gongs
+114	Knochen
+115	Magnete
+116	Harpyienfeder
+117	Goldene Pyramiden
+118	Weinfäßchen
+119	Zähne
+120	Vierblättriges Kleeblatt
+121	Bernstein
+122	Suchauftrag
+123	Suchauftrag
+124	Willkommen
+125	Quelle der Jugend
+126	Instruktionen
+127	Instruktionen
+128	Instruktionen
+129	Tausche Pyramide gegen Rüstung
+130	Tausche Pyramide gegen Waffe
+131	Tausche Pyramide gegen Zubehör
+132	Tausche Weinfaß gegen Rüstung
+133	Tausche Weinfaß gegen Waffe
+134	Tausche Weinfaß gegen Zubehör
+135	Tausche Lampe gegen Edelsteine
+136	Put Text Here
+137	Put Text Here
+138	Put Text Here
+139	Put Text Here
+140	Put Text Here
+141	Put Text Here
+142	Put Text Here
+143	Put Text Here
+144	Put Text Here
+145	Put Text Here
+146	Put Text Here
+147	Put Text Here
+148	Put Text Here
+149	Put Text Here
+150	Put Text Here
+151	Put Text Here
+152	Put Text Here
+153	Put Text Here
+154	Put Text Here
+155	Put Text Here
+156	Put Text Here
+157	Put Text Here
+158	Put Text Here
+159	Put Text Here
+160	Put Text Here
+161	Put Text Here
+162	Put Text Here
+163	Put Text Here
+164	Put Text Here
+165	Put Text Here
+166	Put Text Here
+167	Put Text Here
+168	Put Text Here
+169	Put Text Here
+170	Put Text Here
+171	Put Text Here
+172	Put Text Here
+173	Put Text Here
+174	Put Text Here
+175	Put Text Here
+176	Put Text Here
+177	Put Text Here
+178	Put Text Here
+179	Put Text Here
+180	Put Text Here
+181	Put Text Here
+182	Put Text Here
+183	Put Text Here
+184	Put Text Here
+185	Put Text Here
+186	Put Text Here
+187	Put Text Here
+188	Put Text Here
+189	Put Text Here
+190	Put Text Here
+191	Put Text Here	
+192	Put Text Here	
+193	Put Text Here	
+194	Put Text Here	
+195	Put Text Here	
+196	Put Text Here	
+197	Put Text Here	
+198	Put Text Here	
+199	Put Text Here	
+200	Experte am Stab	Expert staff training
+201	Meister des Stabes	Master staff training
+202	Experte des Schwertes	Expert sword training
+203	Meister des Schwertes	Master sword training
+204	Dolchexperte	Expert dagger training
+205	Dolchmeister	Master dagger training
+206	Experte der Axt	Expert Axe training
+207	Meister der Axt	Master axe training
+208	Experte des Speeres	Expert spear training
+209	Meister des Speeres	Master spear training
+210	Experte am Bogen	Expert bow training
+211	Meister am Bogen	Master bow training
+212	Keulenexperte	Expert mace training
+213	Keulenmeister	Master mace training
+214	Experte antiker Waffen	Expert blaster training
+215	Meister der Lichtwand	Master Blasters
+216	Experte am Schild	Expert shield training
+217	Meister am Schild	Master shield training
+218	Experte in der Lederrüstung	Expert leather training
+219	Meister in der Lederrüstung	Master leather training
+220	Experte in der Kettenrüstung	Expert chain armor training
+221	Meister in der Kettenrüstung	Master chain armor training
+222	Experte in der Panzerrüstung	Expert plate armor training
+223	Meister in der Panzerrüstung	Master plate armor training
+224	Experte der Feuermagie	Expert Fire magic training
+225	Meister der Feuermagie	Master Fire magic training
+226	Experte der Luftmagie	Expert Air magic training
+227	Meister der Luftmagie	Master Air magic training
+228	Experte der Wassermagie	Expert water magic training
+229	Meister der Wassermagie	Master water magic training
+230	Experte der Erdmagie	Expert earth magic training
+231	Meister der Erdmagie	Master earth magic training
+232	Experte der spirituellen Magie	Expert spirit magic training
+233	Meister der spirituellen Magie	Master spirit magic training
+234	Experte der Geistesmagie	Expert mind magic training
+235	Meister der Geistesmagie	Master mind magic training
+236	Experte der Körpermagie	Expert body magic training
+237	Meister der Körpermagie	Master body magic training
+238	Experte der Lichtmagie	Expert light magic training
+239	Meister der Lichtmagie	Master light magic training
+240	Experte der Schattenmagie	Expert dark magic training
+241	Meister der Schattenmagie	Master dark magic training
+242	Experte des Erkennens	Expert identify item training
+243	Meister der Erkennens	Master identify item training
+244	Experte des Handelns	Expert merchant training
+245	Meister des Handelns	Master merchant training
+246	Experte der Reparatur	Expert repair training
+247	Meister der Reparatur	Master repair training
+248	Experte der Kondition	Expert body building training
+249	Meister der Kondition	Master body building training
+250	Experte der Meditation	Expert meditation training
+251	Meister der Meditation	Master meditation training
+252	Experte des 6. Sinns	Expert perception training
+253	Meister des 6. Sinns	Master perception training
+254	Experte der Diplomatie	Expert diplomacy training
+255	Meister der Diplomatie	Master diplomacy training
+256	Experte im Entschärfen von Fallen	Expert disarm traps training
+257	Meister im Entschärfen von Fallen	Master disarm traps training
+258	Experte des Lernens	Expert learning training
+259	Meister des Lernens	Master learning training
+260	Jasper Rice	Location of Staff Master Teacher
+261	Guy Hampton	Location of Sword Master Teacher
+262	Jules Miles	Location of Dagger Master Teacher
+263	Avinril Smythers	Location of Axe Master Teacher
+264	Burton Rutherford	Location of Spear Master Teacher
+265	Desmond Weller	Location of Bow Master Teacher
+266	Errol Ostermann	Location of Mace Master Teacher
+267	Rexella	Location of Blaster Master Teacher
+268	Bronwyn Meck	Location of Shield Master Teacher
+269	Arlen Sailor	Location of Leather Master Teacher
+270	David Feather	Location of Chain Master Teacher
+271	Forrest Suthers	Location of Plate Master Teacher
+272	Jezebel	Location of Fire Master Teacher
+273	Caao Salem	Location of Air Master Teacher
+274	Harper Collins	Location of Water Master Teacher
+275	Revee Botania	Location of Earth Master Teacher
+276	Bishop Inquisitorio	Location of Spirit Master Teacher
+277	Thane Roper	Location of Mind Master Teacher
+278	Gilbert Hammer	Location of Body Master Teacher
+279	Ki Lo Nee	Location of Light Master Teacher
+280	Su Lang Manchu	Location of Dark Master Teacher
+281	Hans Gifford	Location of Identify Master Teacher
+282	Will Ottoman	Location of Merchant Master Teacher
+283	Ryan Treacle	Location of Repair Master Teacher
+284	Jason Traveler	Location of Body Building Master Teacher
+285	Norio Ariganaka	Location of Meditation Master Teacher
+286	Macro Caligula	Location of Perception Master Teacher
+287	Jacques Kohl	Location of Diplomacy Master Teacher
+288	Gabe Lester	Location of Disarm Master Teacher
+289	John Tuck	Location of Learning Master Teacher
+290	Suchauftrag	
+291	Suchauftrag	
+292	Suchauftrag	
+293	Suchauftrag	
+294	Silberhelme	
+295	Silberhelme	
+296	Suchauftrag	
+297	Suchauftrag	
+298	Ordensbruderschaft von Silver	
+299	Melody	
+300	Ankh	
+301	Snergles Schlüssel	
+302	Vesteckte Passage	
+303	Suchauftrag
+304	Suchauftrag
+305	Suchauftrag
+306	Suchauftrag
+307	Put Text Here
+308	Suchauftrag
+309	Suchauftrag
+310	Suchauftrag
+311	Suchauftrag
+312	Kobraeier
+313	Suchauftrag
+314	Suchauftrag
+315	Suchauftrag
+316	Suchauftrag
+317	Suchauftrag
+318	Suchauftrag
+319	Grüße
+320	Grüße
+321	Blackshire
+322	Suchauftrag
+323	Suchauftrag
+324	Suchauftrag
+325	Suchauftrag
+326	Schattengilde
+327	Neu Sorpigal
+328	Suchauftrag
+329	Suchauftrag
+330	Grüße
+331	Suchauftrag
+332	Suchauftrag
+333	Flucht
+334	Suchauftrag
+335	Suchauftrag
+336	Grüße
+337	Grüße
+338	Werwölfe
+339	Perle der Reinheit
+340	Suchauftrag
+341	Suchauftrag
+342	Perle der Reinheit
+343	Put Text Here
+344	Put Text Here
+345	Put Text Here
+346	Put Text Here
+347	Menschen
+348	Grüße
+349	Ratschlag
+350	Ungewöhnliche Aufträge
+351	Suchauftrag
+352	Suchauftrag
+353	Archibald
+354	Suchauftrag
+355	Suchauftrag
+356	Suchauftrag
+357	Suchauftrag
+358	Diener
+359	Kreatur
+360	Suchauftrag
+361	Put Text Here
+362	Ankh
+363	Ankh
+364	Ankh
+365	Zeremonie der Sonne
+366	Zeremonie des Mondes
+367	Put Text Here
+368	Put Text Here
+369	Put Text Here
+370	Put Text Here
+371	Put Text Here
+372	Put Text Here
+373	Put Text Here
+374	Put Text Here
+375	Zutritt zum Orakel
+376	Zutritt zum Orakel
+377	Zutritt zum Orakel
+378	Zutritt zum Orakel
+379	Zutritt zum Orakel
+380	Zutritt zum Orakel
+381	Mitgliedschaft in der Gilde der Elemente
+382	Mitgliedschaft in der Gilde des Selbst
+383	Mitgliedschaft im Seeräuberlager
+384	Mitgliedschaft beim Sicherheitsdienst
+385	Mitgliedschaft in der Schmugglergilde
+386	Mitgliedschaft bei der Klingenspitze
+387	Mitgliedschaft bei der Duellantenecke
+388	Mitgliedschaft bei Berserkers Zorn
+389	Mitgliedschaft in der Gilde der Luft
+390	Mitgliedschaft in der Gilde der Erde
+391	Mitgliedschaft in der Gilde des Feuers
+392	Mitgliedschaft in der Gilde des Wassers
+393	Mitgliedschaft in der Gilde des Körpers
+394	Mitgliedschaft in der Gilde des Geistes
+395	Mitgliedschaft in der Gilde des Spirituellen
+396	Mitgliedschaft in der Gilde des Lichts
+397	Mitgliedschaft in der Gilde des Schattens
+398	Suchauftrag
+399	Kopfgeldjagd
+400	Arena - Auszeichnung erwerben
+401	Gruppe heilen
+402	Nahrung herstellen
+403	Zauberspruch Fliegen aussprechen
+404	Zauberspruch Wasserwandeln aussprechen
+405	Zauberspruch Stadtportal aussprechen
+406	Zauberspruch Segen aussprechen
+407	Zauberspruch Heldentum aussprechen
+408	Kein Gewinn
+409	
+410	Leeres Faß
+411	Faß mit roter Flüssigkeit
+412	Faß mit gelber Flüssigkeit
+413	Faß mit blauer Flüssigkeit
+414	Faß mit orangefarbener Flüssigkeit
+415	Faß mit grüner Flüssigkeit
+416	Faß mit lilafarbener Flüssigkeit
+417	Faß mit weißer Flüssigkeit
+418	Leerer Kessel
+419	Dampfendes Gebräu
+420	Frostiges Gebräu
+421	Schockierendes Gebräu
+422	Schädliches Gebräu
+423	Magisches Gebräu
+424	Kochtopf
+425	Kochtopf
+426	Kochtopf
+427	Kochtopf
+428	Kochtopf
+429	Mehlsack
+430	Mehlsack
+431	Große Tasche
+432	Große Tasche
+433	Große Tasche
+434	Große Tasche
+435	Beutel voll Gold
+436	Müllhaufen
+437	Müllhaufen
+438	Schädelhaufen
+439	Schädelhaufen der Schwäche
+440	Schädelhaufen der Flüche
+441	Schädelhaufen des Irrsinns
+442	Schädelhaufen des Todes
+443	Eimer
+444	Eimer
+445	Eimer
+446	Eimer
+447	Kristalle
+448	Kristalle
+449	Kristalle
+450	Kristalle
+451	Kristalle
+452	Kristalle
+453	Kristalle
+454	Kristalle
+455	Kristalle
+456	Kristalle
+457	Kristalle
+458	
+459	
+460	
+461	
+462	
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495		
+496		
+497		
+498		
+499		
+500		
+501	Mitgliedschaft in der Gilde der Elemente	I do not believe these topics are currently being used.
+502	Mitgliedschaft in der Gilde des Selbst	I do not believe these topics are currently being used.
+503	Mitgliedschaft im Seeräuberlager	I do not believe these topics are currently being used.
+504	Mitgliedschaft beim Sicherheitsdienst	I do not believe these topics are currently being used.
+505	Mitgliedschaft in der Schmugglergilde	I do not believe these topics are currently being used.
+506	Mitgliedschaft in der Klingenspitze	I do not believe these topics are currently being used.
+507	Mitgliedschaft in der Duellantenecke	I do not believe these topics are currently being used.
+508	Mitgliedschaft bei Berserkers Zorn	I do not believe these topics are currently being used.
+509	Mitgliedschaft in der Gilde der Luft	I do not believe these topics are currently being used.
+510	Mitgliedschaft in der Gilde der Erde	I do not believe these topics are currently being used.
+511	Mitgliedschaft in der Gilde des Feuers	I do not believe these topics are currently being used.
+512	Mitgliedschaft in der Gilde des Wassers	I do not believe these topics are currently being used.
+513	Mitgliedschaft in der Gilde des Körpers	I do not believe these topics are currently being used.
+514	Mitgliedschaft in der Gilde des Geistes	I do not believe these topics are currently being used.
+515	Mitgliedschaft in der Gilde des Spirituellen	I do not believe these topics are currently being used.
+516	Mitgliedschaft in der Gilde des Lichts	I do not believe these topics are currently being used.
+517	Mitgliedschaft in der Gilde des Schattens	I do not believe these topics are currently being used.
+518		
+519		
+520		
+521		
+522		
+523		
+524		
+525		
